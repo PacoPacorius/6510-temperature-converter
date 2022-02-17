@@ -6,7 +6,6 @@ I wrote this using the Turbo Macro Pro assembler for the C64 in the VICE emulato
 In order to run the executable, you will need a C64 emulator. Load the program in memory through disk (LOAD"ASMTEMP",8,1) and then type the command SYS 4096 to execute. A .d64 disk image is provided containing the program for convenience, although is not necessary.
 
 ### To Do
--Input for multiple characters to enter degrees
 
 -Calculate using conversion formula
 
