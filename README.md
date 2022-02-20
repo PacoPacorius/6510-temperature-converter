@@ -13,5 +13,3 @@ In order to run the executable, you will need a C64 emulator. Load the program i
 
 -Ask user if they wish to quit
 
-
-Oh yeah if you can't tell already this isn't a finished program yet.
