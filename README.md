@@ -13,3 +13,5 @@ In order to run the executable, you will need a C64 emulator. Load the program i
 
 -Ask user if they wish to quit
 
+-Accept 4-character numbers instead of 2
+
