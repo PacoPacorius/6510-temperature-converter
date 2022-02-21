@@ -5,13 +5,14 @@ I wrote this using the Turbo Macro Pro assembler for the C64 in the VICE emulato
 
 In order to run the executable, you will need a C64 emulator. Load the program in memory through disk (LOAD"ASMTEMP",8,1) and then type the command SYS 4096 to execute. 
 
+NOTE: the current result is incorrect, most likely due to the fact that I didn't bother to use floating point numbers in the divisions that are part of the celsius
+to fahrenheit/fahrenheit to celsius formula. This is not a reliable celsius to fahrenheit or fahrenheit to celsius converter! This isn't a major concern for me, though, this program's purpose was to familiarise myself with 6502/6510 assembly. 
+
 ### To Do
 
--Calculate using conversion formula
+-Use floating point numbers in conversion formula
 
--Print Result
-
--Ask user if they wish to quit
+-Ask user if they wish to quit or keep converting
 
 -Accept 4-character numbers instead of 2
 
